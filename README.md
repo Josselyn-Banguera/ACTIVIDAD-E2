@@ -13,10 +13,10 @@ Coreo: Josselyn.banguera.tircio@utelvt.edu.ec
 #### Descripcion del problema
 Esteprograma en c++ permite ingresar la cantidad de numeros que queramos sumar y nos dara el valor todal de dichos numeros.
 #### Funcionalidad
-...
+
 int BJ_c=0, BJ_n
 float BJ_s=0, BJ_x
-...
+
 #### Salida
 
 (BJ_c<BJ_n)
