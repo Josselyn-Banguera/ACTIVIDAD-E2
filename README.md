@@ -8,6 +8,8 @@ Autor: Banguera Tircio Josselyn Nicole
 
 Coreo: Josselyn.banguera.tircio@utelvt.edu.ec
 
+link actividad-B1:https://youtu.be/c6uMQ0L9ymw
+
 ## Programas
 ### Suma de varios numeros
 #### Descripcion del problema
@@ -64,7 +66,7 @@ int BJ_da,BJ_ma,BJ_aa,BJ_dn,BJ_mn,BJ_an,BJ_a,BJ_m,BJ_d
 
 ### Cuenta moneda
 #### Descripcion del problema
-Este programa permite ingresar cuantas monedas de 0,15 y 0,25ctv desea sumar y le dara la suma total de las monesa
+Este programa permite ingresar cuantas monedas de 0,15 y 0,25ctv desea sumar y le dara la suma total de las monedas.
 
 #### Funcionalidad
 
